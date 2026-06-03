@@ -1,2 +1,1 @@
-# joigolapak.github.io
-website
+ini situsku
